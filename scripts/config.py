@@ -4,6 +4,6 @@ import streamlit as st
 
 API_KEY = st.secrets["ROBOFLOW_API_KEY"]
 PROJECT = "pinniped-detection-5vtha"
-VERSION = 3
+VERSION = 6
 CONF = 50
 OVERLAP = 30
